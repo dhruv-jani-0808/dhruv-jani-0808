@@ -30,7 +30,7 @@ I'm a B.Tech Computer Engineering student from India, currently pursuing my degr
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats :
 
 <p align="center">
   <a href="https://github.com/dhruv-jani-0808">
@@ -43,12 +43,22 @@ I'm a B.Tech Computer Engineering student from India, currently pursuing my degr
   </a>
 </p>
 
+### My LeetCode stats :
 <p align="center">
   <a href="https://leetcode.com/u/dhruv_jani_0808/" target="_blank">
     <img align="center" 
          src="https://leetcard.jacoblin.cool/dhruv_jani_0808?theme=dark&font=Source%20Code%20Pro&border_radius=5&hide_border=true&hide_rank=true" 
          alt="Dhruv's LeetCode Stats" />
   </a>
+</p>
+
+### My Holopin Badges :
+<p align="center">
+  <a href="https://holopin.io/@dhruvjani0808" target="_blank">
+    <img align="center" 
+         src="https://holopin.me/dhruvjani0808" 
+         alt="@dhruvjani0808's Holopin board" />
+  </a>
 </p>
 
 ---

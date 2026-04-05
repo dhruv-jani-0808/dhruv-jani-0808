@@ -4,7 +4,7 @@ I'm a B.Tech Computer Engineering student from India, currently pursuing my degr
 
 ### 👨‍💻 About Me
 
-* 🌱 I am currently focused on **Python, Data Structures & Algorithms (DSA), and Flask**.
+* 🌱 I am currently focused on **Machine Learning and Data Structures & Algorithms (DSA)**.
 * 🚀 I believe in consistency and dedicated practice as the keys to mastering new skills.
 * 💬 Ask me about **Python, C++, and Flask**.
 * ⚡ Favorite Quote: "Slowly is the fastest way to learn anything."
